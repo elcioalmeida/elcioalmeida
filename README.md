@@ -1,4 +1,8 @@
-### Hi there 👋
+## Olá, pessoal! 👋
+### Eu sou o Élcio, programador em transição de carreira.
+
+- Atualmente estou em busca da minha primeira vaga como desenvolvedor web.
+- Minha stack: React, Next.js, Node.js e TypeScript.
 
 <!--
 **elcioalmeida/elcioalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
